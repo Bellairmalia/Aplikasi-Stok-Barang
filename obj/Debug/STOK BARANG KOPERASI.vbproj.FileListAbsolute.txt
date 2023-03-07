@@ -1,0 +1,66 @@
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.exe.config
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.exe
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.pdb
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.xml
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Index_IT.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Login.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.exe
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.xml
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.pdb
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Index_Koperasi.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.User.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.vbprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Pilih_Laporan.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Stok_Barang.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Keluar.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Penyesuaian.resources
+c:\users\user\documents\visual studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Cancel.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.frmTampilLaporan.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Masuk.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Keluar.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Masuk.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Penyesuaian.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Cancel.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.frmTampilLaporan.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Index_IT.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Index_Koperasi.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Login.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Pilih_Laporan.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Stok_Barang.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.User.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\STOK BARANG KOPERASI - Copy (2)\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.exe.config
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.exe
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.pdb
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\bin\Debug\STOK BARANG KOPERASI.xml
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Keluar.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Masuk.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang_Penyesuaian.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Barang.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Cancel.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.frmTampilLaporan.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Index_IT.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Index_Koperasi.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Login.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Resources.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Pilih_Laporan.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.Stok_Barang.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK_BARANG_KOPERASI.User.resources
+C:\Users\User\Documents\Visual Studio 2013\Projects\SI Stok Barang Koperasi\STOK BARANG KOPERASI\obj\Debug\STOK BARANG KOPERASI.vbproj.GenerateResource.Cache
